@@ -1,4 +1,4 @@
-**Real Time Detection of Safety-Helmet-And-Reflective-Jacket
+**Real Time Detection of Safety-Helmet-And-Reflective-Jacket Using YOLO NAS 
 
 Install these libraries before the inference 
 
