@@ -24,7 +24,7 @@ DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 best_model = models.get(
     model_name='yolo_nas_s',  # specify the model name here
     num_classes=2,
-    checkpoint_path='yolo_nas\average_model.pth'
+    checkpoint_path='yolo_nas\\average_model.pth'
 ).to(DEVICE)
 
 
